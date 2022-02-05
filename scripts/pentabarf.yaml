@@ -8839,27 +8839,27 @@ tracks:
     end_time_index:
       saturday: 120
       sunday: 
-  openharmony_project_stand:
+  oniro_project_stand:
     conference_track_id: 1064
-    conference_track: OpenHarmony Project stand
+    conference_track: Oniro Project stand
     rank: 2250
     conference_call_for_papers_url: 
-    name: OpenHarmony Project stand
-    title: OpenHarmony Project stand
+    name: Oniro Project stand
+    title: Oniro Project stand
     type: standtrack
-    slug: openharmony_project_stand
+    slug: onrio_project_stand
     events:
-    - openharmony_welcome
+    - oniro_welcome
     events_by_day:
       saturday:
-      - openharmony_welcome
+      - oniro_welcome
       sunday: []
     rooms:
-    - sopenharmony
+    - soniro
     events_per_room_per_day:
       saturday:
-        sopenharmony:
-        - openharmony_welcome
+        soniro:
+        - oniro_welcome
       sunday: {}
     start_time:
       saturday: '09:30'
